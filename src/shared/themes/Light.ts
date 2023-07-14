@@ -1,4 +1,4 @@
-import { createTheme} from '@mui/material'
+import { createTheme } from '@mui/material'
 import { yellow, cyan } from '@mui/material/colors'
 
 export const LightTheme = createTheme({
@@ -18,6 +18,6 @@ export const LightTheme = createTheme({
     background: {
       paper: '#fff',
       default: '#f7f6f3',
-    }
-  }
+    },
+  },
 })
